@@ -2,7 +2,7 @@
 // Computer Science Programming II
 // 11/22/2024
 // Project Name: Random Walker Lab
-
+// Extras: Canvas Boundaries, Multiple Walkers, Interactive Features
 
 // initializing global variables
 PGraphics pg;
